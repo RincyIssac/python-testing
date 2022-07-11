@@ -40,3 +40,13 @@ class UsertTest(unittest.TestCase):
         self.assertTrue(True)
         self.assertTrue(True)
         self.assertTrue(True)
+
+    def test_age(self):
+        # TDD
+        self.assertTrue(True)
+        self.assertTrue(True)
+        self.assertTrue(True)
+        self.assertTrue(True)
+        self.assertTrue(True)
+        self.assertTrue(True)
+        
